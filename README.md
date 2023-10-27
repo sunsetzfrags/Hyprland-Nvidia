@@ -35,3 +35,10 @@ Follow these steps to easily set up the required dependencies for the **hyprland
 This script automates the installation of all necessary dependencies, enabling you to enjoy the full Hyprland experience on your Arch Linux system with Nvidia graphics cards.
 
 Enjoy Arch Linux with Hyprland on Nvidia graphics cards! 🎉
+
+## 🥇 Special Thanks
+
+A huge shout-out to the Hyprland development team and the AUR package maintainer for making this installation possible. Your dedication and hard work have been invaluable to the Arch Linux community!
+
+- [Hyprland GitHub Repository](https://github.com/hyprwm/Hyprland)
+- [AUR Package for hyprland-nvidia](https://aur.archlinux.org/packages/hyprland-nvidia)
